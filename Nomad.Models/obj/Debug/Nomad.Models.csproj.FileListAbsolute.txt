@@ -1,0 +1,6 @@
+C:\Users\бейсеевс.CORP\source\repos\NomadApp\Nomad.Models\bin\Debug\Nomad.Models.dll
+C:\Users\бейсеевс.CORP\source\repos\NomadApp\Nomad.Models\bin\Debug\Nomad.Models.pdb
+C:\Users\бейсеевс.CORP\source\repos\NomadApp\Nomad.Models\obj\Debug\Nomad.Models.csprojAssemblyReference.cache
+C:\Users\бейсеевс.CORP\source\repos\NomadApp\Nomad.Models\obj\Debug\Nomad.Models.csproj.CoreCompileInputs.cache
+C:\Users\бейсеевс.CORP\source\repos\NomadApp\Nomad.Models\obj\Debug\Nomad.Models.dll
+C:\Users\бейсеевс.CORP\source\repos\NomadApp\Nomad.Models\obj\Debug\Nomad.Models.pdb
